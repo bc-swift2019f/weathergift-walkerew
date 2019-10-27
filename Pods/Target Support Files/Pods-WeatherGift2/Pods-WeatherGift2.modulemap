@@ -1,0 +1,6 @@
+framework module Pods_WeatherGift2 {
+  umbrella header "Pods-WeatherGift2-umbrella.h"
+
+  export *
+  module * { export * }
+}
