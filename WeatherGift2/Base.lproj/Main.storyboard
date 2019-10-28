@@ -99,10 +99,10 @@
                                 <rect key="frame" x="0.0" y="20" width="375" height="225"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="L1t-NG-dDd">
-                                        <rect key="frame" x="0.0" y="0.0" width="172" height="225"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="193.5" height="225"/>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Wednesday, Dec 32, 2019" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nWj-sl-HuN">
-                                        <rect key="frame" x="180" y="8" width="187" height="21"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nWj-sl-HuN">
+                                        <rect key="frame" x="201.5" y="8" width="165.5" height="21"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="21" id="APZ-ut-UHl"/>
                                         </constraints>
@@ -110,8 +110,8 @@
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chestnut Hill, MA" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4SS-1X-kmU">
-                                        <rect key="frame" x="180" y="29" width="187" height="24"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4SS-1X-kmU">
+                                        <rect key="frame" x="201.5" y="29" width="165.5" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="298-Eg-M7w"/>
                                         </constraints>
@@ -120,7 +120,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cloudy with a chance of meatballs" textAlignment="right" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e6c-QU-dXm">
-                                        <rect key="frame" x="179" y="161" width="188" height="64"/>
+                                        <rect key="frame" x="200.5" y="161" width="166.5" height="64"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="64" id="eyn-yN-cRv"/>
                                         </constraints>
@@ -128,8 +128,8 @@
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-20°" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x7N-Ie-7mA">
-                                        <rect key="frame" x="180" y="55" width="187" height="120"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x7N-Ie-7mA">
+                                        <rect key="frame" x="201.5" y="55" width="165.5" height="120"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="120" id="rqI-8b-Tt9"/>
                                         </constraints>
