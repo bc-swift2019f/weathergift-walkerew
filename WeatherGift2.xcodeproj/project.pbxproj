@@ -16,6 +16,7 @@
 		1B669688235E0C28007DE8B1 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B669687235E0C28007DE8B1 /* DetailVC.swift */; };
 		1B66968A235E0F5C007DE8B1 /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B669689235E0F5C007DE8B1 /* ListVC.swift */; };
 		1B66968C235E11A9007DE8B1 /* PageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B66968B235E11A9007DE8B1 /* PageVC.swift */; };
+		1B79ABCF23674A6700256E31 /* DayWeatherCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B79ABCE23674A6700256E31 /* DayWeatherCell.swift */; };
 		FEEB59DCEE934760C20DAB93 /* Pods_WeatherGift2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11B38D12E708AB02BC91DA84 /* Pods_WeatherGift2.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		1B669687235E0C28007DE8B1 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 		1B669689235E0F5C007DE8B1 /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
 		1B66968B235E11A9007DE8B1 /* PageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageVC.swift; sourceTree = "<group>"; };
+		1B79ABCE23674A6700256E31 /* DayWeatherCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayWeatherCell.swift; sourceTree = "<group>"; };
 		7B0B77105783020297279450 /* Pods-WeatherGift2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherGift2.debug.xcconfig"; path = "Target Support Files/Pods-WeatherGift2/Pods-WeatherGift2.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,6 +75,7 @@
 				1B66968B235E11A9007DE8B1 /* PageVC.swift */,
 				1B44D41B2366787700312DF2 /* WeatherLocation.swift */,
 				1B669687235E0C28007DE8B1 /* DetailVC.swift */,
+				1B79ABCE23674A6700256E31 /* DayWeatherCell.swift */,
 				1B44D41D2366855300312DF2 /* Constants.swift */,
 				1B669689235E0F5C007DE8B1 /* ListVC.swift */,
 				1B501128235E0AED002C61A0 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B79ABCF23674A6700256E31 /* DayWeatherCell.swift in Sources */,
 				1B44D41C2366787700312DF2 /* WeatherLocation.swift in Sources */,
 				1B66968A235E0F5C007DE8B1 /* ListVC.swift in Sources */,
 				1B66968C235E11A9007DE8B1 /* PageVC.swift in Sources */,
